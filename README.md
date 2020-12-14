@@ -5,7 +5,7 @@ Download / upload codeplug from/to Kydera CDR-300UV / Retevis RT73
 
 Exprot/Import codeplug to/from CSV file
 
-But now you can only some manipulations (like change order or name) with zones and channels order. Main reason for this programm - change channels order in codeplug. Native CPS_DRS can't allow this, only add or del zones and channels.
+But now you can only some manipulations (like change order or name) with zones and channels order. Main reason for this program - change channels order in codeplug. Native CPS_DRS can't allow this, only add or del zones and channels.
 
 ## Usage
 
@@ -24,4 +24,5 @@ At this point you can edit CSV file: rename zone; change channels order, name. Y
 ## Download
 
 `kydera.zip` - compiled x64 version
+
 `kydera.x86.zip` - compiled x86 version
