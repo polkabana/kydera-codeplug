@@ -5,8 +5,8 @@ Download / upload codeplug from/to Kydera CDR-300UV / Retevis RT73
 
 Exprot/Import codeplug to/from CSV file
 
-- Zone: rename and change order
-- Channel: rename, change rx, tx and order in zone
+- Zone: add, remove, change
+- Channel: add, remove, rename, change rx, tx and order in zone
 - Contact: add, remove, change
 - ScanList: add, remove, change
 - RxList: add, remove, change
